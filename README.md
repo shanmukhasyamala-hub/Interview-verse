@@ -1,90 +1,100 @@
-<<<<<<< HEAD
-# InterviewVerse AI
+# InterviewVerse AI 🚀
 
-Modern AI-powered mock interview platform (React + Tailwind + Node/Express).
+InterviewVerse AI is an AI-powered mock interview and career preparation platform designed to help students improve their interview skills through personalized AI-driven interactions, real-time feedback, and performance analytics.
 
-This repo supports:
-- **Local/offline mode (default)**: local JWT auth + local JSON storage + local resume uploads + **stubbed AI & STT** (no keys needed)
-- **Cloud mode (optional)**: Firebase Auth + OpenAI/Gemini + Whisper transcription
-
-## Features (MVP)
-- User authentication
-- Resume upload + profile summary
-- AI-generated interview questions (stubbed locally; OpenAI/Gemini in cloud mode)
-- Voice-based interview interaction (record → STT; stubbed locally; Whisper in cloud mode)
-- Adaptive follow-up questions
-- Feedback + scores (confidence, communication, technical, overall)
-- Analytics dashboard with progress tracking
-- Dark futuristic UI (glassmorphism + gradients)
+Built using Trae.ai for rapid prototyping and development.
 
 ---
 
-## 1) Prerequisites
-- Node.js 18+
-- (Optional, cloud mode only) Firebase project + OpenAI/Gemini keys
+## 🌟 Features
+
+- 🎤 AI-powered mock interviews
+- 📄 Resume-based interview question generation
+- 🧠 Adaptive follow-up questioning
+- 🎙️ Voice interaction support
+- 📊 AI performance analysis dashboard
+- 😊 Confidence and communication analysis
+- 👀 Body language and facial expression monitoring
+- 📈 Progress tracking and interview analytics
+- 🌙 Modern futuristic UI with responsive design
 
 ---
 
-## 2) Configure Firebase (optional — cloud mode only)
-1. Create a Firebase project.
-2. Enable **Authentication**:
-   - Email/Password
-   - (Optional) Google provider
-3. Create **Firestore** database (in production or test mode).
-4. Enable **Storage**.
-5. Create a **Web App** in Firebase and copy the config values into the client `.env`.
-6. Create a **Service Account** for the server:
-   - Firebase console → Project settings → Service accounts → Generate new private key
+## 🛠️ Technology Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### AI & Analytics
+- OpenAI / Gemini APIs
+- Speech-to-Text Processing
+- AI-based Interview Evaluation
+
+### Authentication & Database
+- Firebase Authentication
+- Firestore Database
+- Firebase Storage
 
 ---
 
-## 3) Environment variables
+## ⚡ Built With Trae.ai
 
-### Client
-Copy `.env.example` → `.env` (optional).
-- For local mode you can skip this entirely.
-- If you do create it, set:
-  - `VITE_AUTH_MODE=local`
-  - `VITE_API_BASE_URL=http://localhost:5175`
+This project was rapidly prototyped and developed using Trae.ai.
 
-Cloud mode:
-- Set `VITE_AUTH_MODE=firebase` and fill `VITE_FIREBASE_*`
-
-### Server
-Copy `server/.env.example` → `server/.env` and fill in:
-Local mode (default):
-- `AUTH_MODE=local`
-- (Optional) `JWT_SECRET`
-
-Cloud mode:
-- `AUTH_MODE=firebase`
-- `OPENAI_API_KEY` (required for Whisper STT endpoint)
-- `GEMINI_API_KEY` (optional fallback)
-- `FIREBASE_SERVICE_ACCOUNT_JSON` (paste JSON as one line) **or** `FIREBASE_SERVICE_ACCOUNT_BASE64`
+Trae.ai was used for:
+- UI generation
+- Component development
+- Rapid frontend prototyping
+- Backend workflow setup
+- AI integration assistance
+- Full-stack development acceleration
 
 ---
 
-## 4) Run locally
+## 🎯 Problem Statement
 
-From the project root:
+Many students struggle with:
+- Interview anxiety
+- Lack of personalized interview preparation
+- Poor communication confidence
+- Limited access to mock interview platforms
+- Absence of real-time feedback and analytics
+
+InterviewVerse AI solves these challenges using Generative and Agentic AI technologies.
+
+---
+
+## 💡 Solution
+
+InterviewVerse AI simulates realistic interview experiences using AI agents that:
+- Ask intelligent interview questions
+- Analyze verbal and non-verbal communication
+- Evaluate confidence and technical responses
+- Generate actionable improvement feedback
+- Provide personalized learning insights
+
+---
+
+## 🚀 Future Scope
+
+- Multi-language interview support
+- AI career guidance system
+- HR simulation mode
+- Company-specific interview preparation
+- Real-time AI coaching assistant
+- Industry-specific question banks
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
 ```bash
-npm install
-npm run dev
-```
-
-- Client: http://localhost:5173
-- Server: http://localhost:5175/health
-
----
-
-## Notes
-Local mode:
-- Data is stored in `server/data/db.json`
-- Resume files are saved in `server/uploads/` and served from `/uploads/*`
-- AI + STT are stubbed (so you can demo the full UX offline)
-
-Cloud mode:
-- Whisper transcription expects audio in `webm` from the browser MediaRecorder.
-=======
-# Interview-verse
->>>>>>> 7f223e8f9d3db81f46445bd382457034bb332a56
+git clone https://github.com/shanmukhasyamala-hub/interviewverse-ai.git
