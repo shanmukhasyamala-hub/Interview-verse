@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "id": "Khidp6g9Ke9ejiq8s7AhL",
+      "email": "shanmukhasyamala2008@gmail.com",
+      "displayName": "shanmukha",
+      "passwordHash": "$2b$10$6HqWHugn3frojXN57AWHJOqutYZbqOe9i3J1oduyDzE9fcv63naQG",
+      "createdAt": "2026-05-13T14:33:41.081Z"
+    },
+    {
+      "id": "i6a6v0HMYjW33Ot6F4zq4",
+      "email": "shanmukahsyamala2008@gmail.com",
+      "displayName": "shanmukha",
+      "passwordHash": "$2b$10$hKwSVeRMxbvCUCaRV8oItOEpmTdPRQTbmZSOXl9KCWa/KP/0MUTYa",
+      "createdAt": "2026-05-13T14:42:06.621Z"
+    }
+  ],
+  "profiles": {
+    "i6a6v0HMYjW33Ot6F4zq4": {
+      "resumePath": "/workspace/interviewverse-ai/server/uploads/1778683346352-P.SHANMUKHA SYAMALA.PDF (1).pdf",
+      "resumeUrl": "/uploads/1778683346352-P.SHANMUKHA SYAMALA.PDF (1).pdf",
+      "updatedAt": "2026-05-13T14:45:01.218Z",
+      "resumeText": "Pulagam baby shanmukha syamala English, Telugu, Hindi SIR PADAMPAT SINGHANIA UNIVERSITY, UDAIPUR Bachelor of Technology in Computer Science - Artificial Intelligence and Machine Learning 2026 - Pursuing shanmukhasyamala2008@gmail.com Contributed to TRANQUIL, a student-focused stress management project, working on idea development and presentations Actively engaged in technical learning through presentations, problem-solving   and exploring AI concepts Adaptable Analytical Collaborative Languages: C, Python,C++ Concepts: Basic Data Structures, Problem Solving Tools: VS Code, Git (Basics), PowerPoint Learning: Data Structures & Algorithms 7 2 0 7 9 1 1 0 7 8 Highly   motivated   and   forward-thinking   B.Tech   1st-year student with a strong passion for technology, innovation, and problem-solving.   Equipped   with   a   solid   foundation   in programming languages such as C and Python, along with a growing   proficiency   in   Data   Structures   and   Algorithms. Demonstrates a keen analytical mindset and the ability to approach challenges with structured logic and creativity Actively   engaged   in   applying   theoretical   knowledge   to practical   scenarios   through   project-based   learning. Contributed to the development of TRANQUIL, a st udent- fo cused   str ess   management   system   aimed   at   addressing mental well-being challenges by providing str uctured and user-centric solutions. Through this project, gained exposure to ideation, solution design, and effective presentation of technical concepts, reflecting an ability to transform ideas into meaningful and impactful outcomes. Shows a strong commitment to continuous learning by exploring emerging technologies, particularly in the field of Artificial Intelligence, including foundational understanding of concepts such as Generative Adversarial Networks (GANs). Actively enhances knowledge through self-learning, academic presentations, and hands-on exploration, demonstrating intellectual curiosity and initiative beyond the standard curriculum. Possesses   strong   communication   and   interpersonal   skills, with the ability to articulate ideas clearly and collaborate effectively   within   team   environments.   Known   for adaptability, a proactiv e mindset, and the willingness to take initiative   in   dynamic   and   challenging   situations. Demonstrates   resilience,   consistency,   and   a   disciplined approach toward skill development and personal growth. Deeply   interested   in   participating   in   hackathons   and innovation-driven   platforms   to   gain   real-world   exposure, collaborate with like-minded individuals, and build scalable, impactful solutions. Aspires to continuously refine technical expertise while contributing meaningfully to projects that address   real-world   problems   and   create   positive   societal impact through technology INTERESTS EDUCATION S T R E N G T H S L A N G U A G E S T E C H N I C A L S K I L L S E X T R A - C U R R I C U L A R A C T I V I T I E S Problem Solving T echnology & AI Gaming & Strategy PROFILE SUMMARY linkedin   Github",
+      "summary": "Candidate summary (local stub): Pulagam baby shanmukha syamala English, Telugu, Hindi SIR PADAMPAT SINGHANIA UNIVERSITY, UDAIPUR Bachelor of Technology in Computer Science - Artificial Intelligence and Machine Learning 2026 - Pursuing shanmukhasyamala2008@gmail.com Contributed to TRANQUIL, a student-focused stress management project, working on idea development and presentations Actively engaged in technical learning through presentations, problem-solving and exploring AI concepts Adaptable Analytical Collaborative Languages: C, Python,C++ Concepts: Basic Data Structures, Problem Solving Tools: VS Code, Git (Basics), PowerPo…",
+      "primarySkills": [
+        "Python",
+        "Data Structures",
+        "Algorithms"
+      ]
+    }
+  },
+  "interviews": [
+    {
+      "id": "KAXI3JUfC3mGyWZK9-sMD",
+      "userId": "Khidp6g9Ke9ejiq8s7AhL",
+      "createdAt": "2026-05-13T14:34:01.515Z",
+      "updatedAt": "2026-05-13T14:34:21.333Z",
+      "role": "Frontend Engineer",
+      "level": "Junior",
+      "status": "completed",
+      "currentIndex": 1,
+      "questions": [
+        {
+          "id": "q1",
+          "type": "main",
+          "text": "Walk me through a recent feature you built as a Frontend Engineer. What trade-offs did you make? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q2",
+          "type": "main",
+          "text": "How would you debug a production performance issue in a Frontend Engineer role? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q3",
+          "type": "main",
+          "text": "Explain a time you improved reliability or reduced latency. What metrics did you track? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q4",
+          "type": "main",
+          "text": "Tell me about a conflict in a team and how you resolved it."
+        },
+        {
+          "id": "q5",
+          "type": "main",
+          "text": "Describe a time you received critical feedback. What did you change?"
+        },
+        {
+          "id": "q6",
+          "type": "main",
+          "text": "Design a scalable service for scheduling mock interviews with voice recordings and analytics. (Junior)"
+        }
+      ],
+      "answers": [],
+      "scores": {
+        "overall": 40,
+        "confidence": 35,
+        "communication": 38,
+        "technical": 36
+      },
+      "feedback": {
+        "summary": "Solid structure and relevant examples. Add sharper metrics, clearer trade-offs, and tighter conclusions for each answer.",
+        "strengths": [
+          "Answers are generally structured and on-topic.",
+          "You reference implementation details, showing hands-on experience.",
+          "Good intent to quantify impact (continue doing this)."
+        ],
+        "improvements": [
+          "Add concrete metrics (latency, throughput, cost, adoption).",
+          "Call out trade-offs explicitly (complexity vs speed vs reliability).",
+          "Close each answer with outcomes and learnings."
+        ],
+        "communication": {
+          "notes": "Good pacing and clarity. Reduce filler and add signposting.",
+          "fillerWords": "Watch for repeated 'like', 'basically', 'actually'.",
+          "structure": "Use STAR for behavioral answers and 'problem → approach → result' for technical answers."
+        },
+        "confidence": {
+          "notes": "Tone is professional. Be more decisive when recommending approaches.",
+          "presence": "Lead with the strongest point, then support it with evidence."
+        },
+        "technical": {
+          "notes": "Shows baseline competency. Go deeper into edge-cases and failure modes.",
+          "accuracy": "When unsure, state assumptions and validate them."
+        },
+        "nextSteps": [
+          "Run 2 more sessions and focus on quantifying impact.",
+          "Practice 60–90s concise answers for top 10 questions.",
+          "Add one system design deep-dive per week."
+        ]
+      }
+    },
+    {
+      "id": "SeS0_DJ7B-0vmFrWumjSE",
+      "userId": "i6a6v0HMYjW33Ot6F4zq4",
+      "createdAt": "2026-05-13T14:42:59.946Z",
+      "updatedAt": "2026-05-13T14:44:21.505Z",
+      "role": "Frontend Engineer",
+      "level": "Junior",
+      "interviewType": "mixed",
+      "status": "completed",
+      "currentIndex": 5,
+      "questions": [
+        {
+          "id": "q1",
+          "type": "main",
+          "text": "Walk me through a recent feature you built as a Frontend Engineer. What trade-offs did you make? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q2",
+          "type": "main",
+          "text": "How would you debug a production performance issue in a Frontend Engineer role? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q3",
+          "type": "main",
+          "text": "Explain a time you improved reliability or reduced latency. What metrics did you track? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q4",
+          "type": "main",
+          "text": "Tell me about a conflict in a team and how you resolved it. (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q5",
+          "type": "main",
+          "text": "Describe a time you received critical feedback. What did you change? (based on your profile: No resume summary provided. Ask general interview questions....)"
+        },
+        {
+          "id": "q6",
+          "type": "main",
+          "text": "Design a scalable service for scheduling mock interviews with voice recordings and analytics. (based on your profile: No resume summary provided. Ask general interview questions....)"
+        }
+      ],
+      "answers": [],
+      "scores": {
+        "overall": 40,
+        "confidence": 35,
+        "communication": 38,
+        "technical": 36
+      },
+      "feedback": {
+        "summary": "Solid structure and relevant examples. Add sharper metrics, clearer trade-offs, and tighter conclusions for each answer.",
+        "strengths": [
+          "Answers are generally structured and on-topic.",
+          "You reference implementation details, showing hands-on experience.",
+          "Good intent to quantify impact (continue doing this)."
+        ],
+        "improvements": [
+          "Add concrete metrics (latency, throughput, cost, adoption).",
+          "Call out trade-offs explicitly (complexity vs speed vs reliability).",
+          "Close each answer with outcomes and learnings."
+        ],
+        "communication": {
+          "notes": "Good pacing and clarity. Reduce filler and add signposting.",
+          "fillerWords": "Watch for repeated 'like', 'basically', 'actually'.",
+          "structure": "Use STAR for behavioral answers and 'problem → approach → result' for technical answers."
+        },
+        "confidence": {
+          "notes": "Tone is professional. Be more decisive when recommending approaches.",
+          "presence": "Lead with the strongest point, then support it with evidence."
+        },
+        "technical": {
+          "notes": "Shows baseline competency. Go deeper into edge-cases and failure modes.",
+          "accuracy": "When unsure, state assumptions and validate them."
+        },
+        "nextSteps": [
+          "Run 2 more sessions and focus on quantifying impact.",
+          "Practice 60–90s concise answers for top 10 questions.",
+          "Add one system design deep-dive per week."
+        ]
+      }
+    }
+  ]
+}
