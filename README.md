@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InterviewVerse AI
 
 Modern AI-powered mock interview platform (React + Tailwind + Node/Express).
@@ -84,3 +85,6 @@ Local mode:
 
 Cloud mode:
 - Whisper transcription expects audio in `webm` from the browser MediaRecorder.
+=======
+# Interview-verse
+>>>>>>> 7f223e8f9d3db81f46445bd382457034bb332a56
